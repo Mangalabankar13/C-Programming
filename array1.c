@@ -1,3 +1,5 @@
+// C program to accept n elements store these elements in array and find the replace a given number.
+
 #include<stdio.h>
 void main()
 {
@@ -20,5 +22,5 @@ void main()
  }
  printf("\nreplace array=");
  for(i=0;i<n;i++)
- printf("%d ",a[i]);
+ printf("%d\t",a[i]);
 }     
