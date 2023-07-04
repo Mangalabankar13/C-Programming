@@ -1,3 +1,5 @@
+//C program to accept n elements store these element in array and store the square of these number in another array and display both array.
+
 #include<stdio.h>
 void main()
 {
@@ -17,4 +19,4 @@ void main()
  printf("\nsecond square array:");
  for(i=0;i<n;i++)
  printf("%d ",b[i]);
-}    
+}
